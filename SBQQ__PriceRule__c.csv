@@ -1,7 +1,7 @@
 "Guid","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__TargetObject__c"
 0178c371-b628-4956-8514-61917664ad76,Set VirusScan Device Count,false,111 AND (222 OR 333 OR 444),Custom,Save,"#N/A",1.0,"#N/A",Configurator
 47f4c2d2-c8c0-49c6-984c-9e27a3d00bf7,Lookup Approval Level 3 [Discount],false,"#N/A",All,"#N/A",On Initialization,53.0,Approval_Threshold__c,Calculator
-544aa074-f126-4bde-84bd-465c3567a97f,Auto Renewal Uplift of 3333%,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
+544aa074-f126-4bde-84bd-465c3567a97f,Auto test Renewal Uplift of 3333%,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
 6025c920-87c2-40b6-8d63-cd81b4728d80,Config - Set Device Count,false,"#N/A",All,Edit,"#N/A",99.0,"#N/A",Configurator
 68a8d2f3-09b1-4a44-b62b-dcd437c267fb,Fake Price Rule - Delete Me,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
 75f22597-c509-4304-9ed8-663556766dd4,Set Professional Services Role Rates,false,"#N/A",All,"#N/A",On Calculate,"#N/A",Professional_Services_Rate__c,Calculator
